@@ -1,0 +1,22 @@
+{
+  "name": "programmeren-4",
+  "version": "1.0.0",
+  "description": "Package les 1",
+  "main": "greeting.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BeeBeeEight/programmeren-4.git"
+  },
+  "keywords": [
+    "Les1"
+  ],
+  "author": "Teun Roelandt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BeeBeeEight/programmeren-4/issues"
+  },
+  "homepage": "https://github.com/BeeBeeEight/programmeren-4#readme"
+}
